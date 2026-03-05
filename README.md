@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hello World 👋
 
+My name is Somi and I am a programmer based in the UK!
+
+I mainly work on indie games and whatever projects my imagination comes up with.
+
+I'm a big fan of making tools to make my work easier and assist others in group projects,
+but I share a love for working on game mechanics and UI alike.
+
+## My Tech Stack includes:
+  - Unity C#
+  - Unreal Engine C++
+  - DirectX 11 C++
+  - Github
+  - Playstation DevKit
+
+I am currently working between two of my favourite projects:
+  - 🥋Gesture Based VR Game (Avatar the Last Airbender inspired)
+  - 🦜Recreating a lost childhood (Dokdo a pirate mobile game)
 <!--
 **Afronomical/Afronomical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

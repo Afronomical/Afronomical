@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-My name is Somi and I am a programmer based in the UK!
+My name is [Somi](https://somi3uler.wixsite.com/portfolio) and I am a programmer based in the UK!
 
 I mainly work on indie games and whatever projects my imagination comes up with.
 

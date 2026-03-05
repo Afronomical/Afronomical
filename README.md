@@ -15,8 +15,8 @@ but I share a love for working on game mechanics and UI alike.
   - Playstation DevKit
 
 I've worked on a number of projects and repositories but my favourites would have to be:
-  - 🥋Gesture Based VR Game (Avatar the Last Airbender inspired)
-  - 🦜Recreating a lost childhood (Dokdo a pirate mobile game)
+  - 🥋[Link Text] (https://github.com/Afronomical/VR-Gesture-Input-Game), A gesture based system in Unity VR that allows the player to bend the elements as if they were in ATLA
+  - 💫[Link Text] (https://github.com/Afronomical/AGP-Project--DirectX), a full game engine I created to display a solar system in DirectX 11
 <!--
 **Afronomical/Afronomical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

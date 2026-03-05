@@ -15,8 +15,8 @@ but I share a love for working on game mechanics and UI alike.
   - Playstation DevKit
 
 I've worked on a number of projects and repositories but my favourites would have to be:
-  - 🥋[Link Text] (https://github.com/Afronomical/VR-Gesture-Input-Game), A gesture based system in Unity VR that allows the player to bend the elements as if they were in ATLA
-  - 💫[Link Text] (https://github.com/Afronomical/AGP-Project--DirectX), a full game engine I created to display a solar system in DirectX 11
+  - 🥋[https://github.com/Afronomical/VR-Gesture-Input-Game](VR Avatar Game), A gesture based system in Unity VR that allows the player to bend the elements as if they were in ATLA
+  - 💫[https://github.com/Afronomical/AGP-Project--DirectX](DirectX 11 Game Engine), a full game engine I created to display a solar system in DirectX 11
 <!--
 **Afronomical/Afronomical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

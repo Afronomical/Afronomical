@@ -14,7 +14,7 @@ but I share a love for working on game mechanics and UI alike.
   - Github
   - Playstation DevKit
 
-## Current & Favourite Projects:
+I've worked on a number of projects and repositories but my favourites would have to be:
   - 🥋Gesture Based VR Game (Avatar the Last Airbender inspired)
   - 🦜Recreating a lost childhood (Dokdo a pirate mobile game)
 <!--
